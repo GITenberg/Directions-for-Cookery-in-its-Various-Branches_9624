@@ -1,0 +1,42 @@
+_repo: Directions-for-Cookery-in-its-Various-Branches_9624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+description: Written by Eliza Leslie, or Miss Leslie as she was commonly called, Directions
+  for Cookery was undoubtedly the most popular cookbook in the 19th century. Published
+  in 1837 in Philadelphia, this clear, concise, and elegant cookbook emphasized the
+  nuances of good cooking, the importance of specific measurements&mdash;not always
+  a common practice at that time&mdash;and the significance of good ingredients to
+  prepare the best food in the kitchen. Directions for Cookery is surely an American
+  classic. With recipes for Beef-Steak Pudding, Moravian Sugar Cakes, Cat-Fish Soup,
+  Johnny Cake, Indian Pudding, Molasses Candy, New York Cookies, Pumpkin Chips, Tomato
+  Catchup, and Election Cake, Directions for Cookery sparks your appetite and makes
+  this classic culinary work an invaluable addition to any kitchen. This edition of
+  Directions for Cookery was reproduced by permission from the volume in the collection
+  of the American Antiquarian Society, Worcester, Massachusetts. Founded in 1812 by
+  Isaiah Thomas, a Revolutionary War patriot and successful printer and publisher,
+  the society is a research library documenting the lives of Americans from the colonial
+  era through 1876. The society collects, preserves, and makes available as complete
+  a record as possible of the printed materials from the early American experience.
+  The cookbook collection comprises approximately 1,100 volumes.
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+- GITenberg
+title: Directions for Cookery, in its Various Branches
+url: http://www.gutenberg.org/ebooks/9624
