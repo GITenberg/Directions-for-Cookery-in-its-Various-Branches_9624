@@ -1,5 +1,8 @@
 _repo: Directions-for-Cookery-in-its-Various-Branches_9624
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Eliza
@@ -25,6 +28,8 @@ description: Written by Eliza Leslie, or Miss Leslie as she was commonly called,
   era through 1876. The society collects, preserves, and makes available as complete
   a record as possible of the printed materials from the early American experience.
   The cookbook collection comprises approximately 1,100 volumes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9624#Directions-for-Cookery-in-its-Various-Branches
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
